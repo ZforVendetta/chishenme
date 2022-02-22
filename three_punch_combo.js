@@ -7,6 +7,6 @@
             }
         })
         $('#stop').click(function(){
-            alert('这么作？今天别吃了！')
+            alert('这么难选啊，要不还是外卖吧...')
             $(this).hide();
         })
